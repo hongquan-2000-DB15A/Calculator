@@ -1,0 +1,2 @@
+rootProject.name = "AppCaculation"
+include ':app'
